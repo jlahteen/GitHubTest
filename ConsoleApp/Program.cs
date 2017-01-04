@@ -13,7 +13,7 @@ namespace ConsoleApp
             if (args.Length != 0)
                 return;
 
-            Console.WriteLine("Hello Github!");
+            Console.WriteLine("Hello Github! Latest version");
         }
     }
 }
